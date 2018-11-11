@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Enemy Laser
+  - Enemy Projectile
+  - Player Projectile
+  - Player Laser
+  - UI Particle
+  - P PowerUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Shredder
+  - Player
+  - Enemy
+  - Player Projectile
+  - Enemy Projectile
+  - Power Up
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Models
+    uniqueID: 939728977
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1227175303
+    locked: 0
+  - name: Pause Overlay
+    uniqueID: 1769141627
+    locked: 0
+  - name: UI
+    uniqueID: 1907287203
+    locked: 0

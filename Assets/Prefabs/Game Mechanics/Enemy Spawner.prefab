@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1205754964572676}
+  m_IsPrefabAsset: 1
+--- !u!1 &1205754964572676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4086642943984188}
+  - component: {fileID: 114077832224279758}
+  m_Layer: 0
+  m_Name: Enemy Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4086642943984188
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1205754964572676}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114077832224279758
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1205754964572676}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d3a5315616c82498fe049c575ad4e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waveConfigs:
+  - {fileID: 11400000, guid: d1cf1167a04b2744495856d108797141, type: 2}
+  - {fileID: 11400000, guid: e19e6eb8c184e9148ac2be4e1219b3cb, type: 2}
+  - {fileID: 11400000, guid: 06e9c2f5b9a80c4458c90510bcc5b36b, type: 2}
+  - {fileID: 11400000, guid: c49f577d21ba5fb489f95b3ed0026737, type: 2}
+  - {fileID: 11400000, guid: a6914909f1bb4404cbd250890f1e5bcb, type: 2}
+  - {fileID: 11400000, guid: 1e8dc67661fc9bb41b3fd65b4497a8af, type: 2}
+  - {fileID: 11400000, guid: d960fe5583b41a14daac69561a153a4a, type: 2}
+  - {fileID: 11400000, guid: e19e6eb8c184e9148ac2be4e1219b3cb, type: 2}
+  - {fileID: 11400000, guid: d1cf1167a04b2744495856d108797141, type: 2}
+  - {fileID: 11400000, guid: d960fe5583b41a14daac69561a153a4a, type: 2}
+  - {fileID: 11400000, guid: bd5f80168ea10a84ba375874a1d751d0, type: 2}
+  startingWave: 0
+  looping: 0
+  boss: {fileID: 1542459334637528, guid: 1700eadc41e864a4f97ee2c71c1b38cc, type: 2}
+  starting: {fileID: 4791757759345186, guid: 0bf4fda0cb7718e439b99abe1001381e, type: 2}
+  bossAudioPlayer: {fileID: 114757281233144082, guid: 75a7b08fe90c7654aa4a54497397aa02,
+    type: 2}
