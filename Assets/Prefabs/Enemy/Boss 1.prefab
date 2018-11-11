@@ -168,7 +168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 771552f919ee0b24eb3501b7626cfbf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 2000
+  health: 5000
   hitColor: {r: 1, g: 0.6556604, b: 0.6556604, a: 1}
   flashDuration: 0.05
   laserOffset: 1.5
