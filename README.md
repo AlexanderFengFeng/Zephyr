@@ -14,4 +14,5 @@ Pause: Return key
 ## Credits
 
 Visual Assets: https://sparklinlabs.itch.io/superpowers
+
 Music: https://opengameart.org/content/nes-shooter-music-5-tracks-3-jingles
