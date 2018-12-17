@@ -2,7 +2,7 @@
 
 Top-down retro space shooter. Built in Unity using C#.
 
-Player it [here](https://alexanderfengfeng.itch.io/zephyr)!
+Play it [here](https://alexanderfengfeng.itch.io/zephyr)!
 
 <img src="https://raw.githubusercontent.com/AlexanderFengFeng/Zephyr/master/Media/zephyr1.png" width="160"> <img src="https://raw.githubusercontent.com/AlexanderFengFeng/Zephyr/master/Media/zephyr2.png" width="160"> <img src="https://raw.githubusercontent.com/AlexanderFengFeng/Zephyr/master/Media/zephyr3.png" width="160"> <img src="https://raw.githubusercontent.com/AlexanderFengFeng/Zephyr/master/Media/zephyr4.png" width="160"> <img src="https://raw.githubusercontent.com/AlexanderFengFeng/Zephyr/master/Media/zephyr5.png" width="160">
 
